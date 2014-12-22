@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head> 
+		
+		<link rel="stylesheet" href="style.css" /> 
+	
+	</head>
+	
+	<div id="stripes"><img src="unit3projectassets/assets/stripes.png" alt="stripes"/></div> 
+	
+	<title>
+
+		Tasky Homepage
+
+	</title>
+
+		<br>
+
+<body> 
+	<img src="unit3projectassets/assets/logo-taasky.png" alt="logo" >
+
+	<p> Beautiful, simple and easy to use task manager. </p>
+
+</body> 
+
+	<a href="https://itunes.apple.com/us/app/taasky-beautiful-task-to-do/id720309412?mt=8"> <img src="unit3projectassets/assets/btn_store.png" alt="call to action" > 
+
+</html> 
