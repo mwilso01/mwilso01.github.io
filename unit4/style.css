@@ -1,0 +1,35 @@
+h1 { font-family: 'Syncopate', sans-serif;
+text-align: center; font-size: 600%;
+text-indent: 25%;
+padding-top: 0px;
+color: #F5F5F5;
+		}
+
+h1 {
+    left: 0;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+}
+
+div {
+	background: url(sawadee.jpg) 50% 50%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+h3 {
+	left: 20;
+    line-height: 200px;
+    margin: auto;
+    margin-top: -80px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: #F5DEB3;
+    font-style: italic;
+}
+
