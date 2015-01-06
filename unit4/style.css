@@ -22,14 +22,35 @@ div {
 }
 
 h3 {
-	left: 20;
+	left: 30;
     line-height: 200px;
+    margin: auto;
+    margin-top: -100px;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: #F5F5F5;
+    font-style: italic;
+    letter-spacing: 1px;
+}
+
+h3 {font-family: 'Old Standard TT', serif;
+
+
+}
+
+h4 {left: 30;
+    line-height: 210px;
     margin: auto;
     margin-top: -80px;
     position: absolute;
     top: 50%;
     width: 100%;
-    color: #F5DEB3;
-    font-style: italic;
-}
+    color: #99CC99;
+    font-style: italic; }
+
+ h4 {font-family: 'Old Standard TT', serif;
+	 letter-spacing: 8px;
+	 font-size: larger;
+	}
 
