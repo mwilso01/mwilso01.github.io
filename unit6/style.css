@@ -2,11 +2,8 @@
 
 h1 {
 	text-align: center;
-	font-family: 'Gochi Hand', cursive; color: #64E6D9; font-size: 650%;
-	text-stroke: 2px #64E6D9;
-	padding-bottom: 0px;
-	padding-top: 0px;
-}
+	font-family: 'Gochi Hand', cursive; color: #64E6D9; font-size: 600%;
+	padding: 0; }
 
 h2{
 	font-weight: 1000;
@@ -22,6 +19,7 @@ nav {
 	font-size: 22px;
 	font-family:'Gochi Hand', cursive;
 	background-color: #F0F0F0;
+	padding: 0;
 }
 
 nav a {
@@ -38,10 +36,10 @@ a:hover {
 section {
 	background: #222222;
 	overflow: auto;
-	padding-top:5px;
+	padding: 2px;
 	margin: 0;
 	background-size: 100% 100%;
-	padding-bottom: 5px;
+	
 }
 
 img {
@@ -59,6 +57,12 @@ img {
 	text-align: center;
 	padding-bottom: 3px;
 	padding-top: 3px;
+}
+
+#wrapper {
+	margin: 0 auto;
+	text-align: center ;
+	font-size: 150%;
 }
 
 h3 {
